@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/26/user/1006771).
-* Наставник: [Вадим Новаш] (https://htmlacademy.ru/profile/stakeout).
+* Наставник: [Вадим Новаш] :)(https://htmlacademy.ru/profile/stakeout).
 
 ---
 
